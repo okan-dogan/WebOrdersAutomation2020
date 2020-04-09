@@ -17,6 +17,7 @@ public class Driver {
 
     }
 
+// we will implement synchronized on cucumber too
     public synchronized static WebDriver getDriver() {
         //if webdriver object doesn't exist
         //create it
